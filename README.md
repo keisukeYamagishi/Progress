@@ -32,7 +32,7 @@ $ git clone https://github.com/keisukeYamagishi/Progress.git
 
 ```
 
-# Run 
+# Run
 
 ```
 $ python TEST.py
@@ -45,6 +45,13 @@ $ python TEST.py
 from Progress import Indicator
 
 Indicator.Ind(Indicator.LOADINGINGICATOR)
+```
+
+```
+indis = ('🍺 '*1,'🍺 '*2,'🍺 '*3,'🍺 '*4,'🍺 '*5,'🍺 '*6)
+speed = 0.1
+pro = Indicator(indis,speed)
+pro.start()
 ```
 
 # Use it
@@ -64,6 +71,3 @@ Indicator.Ind(Indicator.LOADINGINGICATOR)
 ### Beer animation
 
 ![](https://github.com/keisukeYamagishi/Progress/blob/master/gif/beer.gif)
-
-
-
