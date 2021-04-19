@@ -2,7 +2,6 @@
 
 [![](https://img.shields.io/badge/language-Python-ff69b4.svg)](https://www.python.org/doc/)
 [![](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/keisukeYamagishi/Progress/blob/master/LICENSE)
-[![](https://img.shields.io/badge/Twitter-O--Liker%20Error-blue.svg)](https://twitter.com/O_Linker_Error)
 
 Convert take in photos into character strings and display at character strings.
 
